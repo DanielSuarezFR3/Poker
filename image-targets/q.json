@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 67,
+    "left": 0,
+    "width": 691,
+    "height": 921,
+    "isRotated": false,
+    "originalWidth": 691,
+    "originalHeight": 1056
+  },
+  "imagePath": "image-targets/q_luminance.jpg",
+  "metadata": null,
+  "name": "q",
+  "resources": {
+    "originalImage": "q_original.jpg",
+    "croppedImage": "q_cropped.jpg",
+    "thumbnailImage": "q_thumbnail.jpg",
+    "luminanceImage": "q_luminance.jpg"
+  },
+  "created": 1788579722254,
+  "updated": 1788579722254
+}
